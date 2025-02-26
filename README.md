@@ -2,11 +2,11 @@
 
 Install OpenCV (if not already installed): Run pip install opencv-python.
 
-Save the code: Copy the provided Python code into a file named steganography.py.
+Save the code: Copy the provided Python code into a file named stegno1.py.
 
 Prepare an image: Make sure you have an image file named tree.jpg in the same directory as the script.
 
-Run the script: In the terminal, navigate to the script's directory and execute the command python steganography.py.
+Run the script: In the terminal, navigate to the script's directory and execute the command python stegno1.py.
 
 Input the key and text: When prompted, enter a security key and the text you wish to hide within the image.
 
