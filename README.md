@@ -1,7 +1,5 @@
 # Secure-Data-Hiding-In-Images-Steganography
 
-To run the provided steganography code, follow these steps in a terminal or command prompt:
-
 Install OpenCV (if not already installed): Run pip install opencv-python.
 
 Save the code: Copy the provided Python code into a file named steganography.py.
